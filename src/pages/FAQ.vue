@@ -2,7 +2,7 @@
   <Layout>
     <v-container>
       <v-row  class="text-center">
-        <v-col md="12" lg=8 offset-lg="2" sm="12" class="mt-lg-16">
+        <v-col md="12" lg=8 offset-lg="2" sm="12">
           <v-card
             tile="true"
             height="100vh"
