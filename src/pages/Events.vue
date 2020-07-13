@@ -9,7 +9,6 @@
             width="100%"
             color="#f3eee8"
             flat
-            class="ml-lg-16 mr-lg-16 mt-lg-16"
             style="border: 3px outset #c0beb1!important; padding:20px;"
           >
           <br><br><br>
