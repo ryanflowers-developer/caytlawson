@@ -18,7 +18,7 @@ export default {
     return {
       images: [
         "https://i.imgur.com/madlag7.jpg",
-        "https://i.imgur.com/rAAgDpF.jpg"
+        "https://i.imgur.com/cwttvll.jpg"
       ]
     }
   }
