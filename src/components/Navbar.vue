@@ -3,6 +3,7 @@
     <v-app-bar
       class="pl-xs-16 pr-xs-16"
       color="#c0beb1"
+      max-width="100%"
       dense
       fixed
     >
