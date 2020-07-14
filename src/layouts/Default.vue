@@ -1,6 +1,6 @@
 <template>
 <div class="Layout">
-    <v-app  style="background-color: #dd786c;">
+    <v-app  style="background-image: url('https://i.imgur.com/a7Krb5P.jpg'); background-repeat: repeat repeat; ">
         <Navbar />
         <slot />
         <Footer />
