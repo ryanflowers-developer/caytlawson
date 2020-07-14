@@ -47,7 +47,7 @@
                 <v-icon class="hidden-lg-and-up">mdi-dots-horizontal</v-icon> 
               </v-col>
 
-              <v-col lg="4" md="8" cols="10">
+              <v-col lg="4" md="8" cols="12">
                 <Quote class="hidden-lg-and-down" />
                 <br />
                 <NewsletterSignUp />

@@ -6,11 +6,11 @@
       fixed
     >
       <v-spacer></v-spacer>
-      <v-tab><g-link style="color: #573a1d" to="/books/">Books</g-link></v-tab>
-      <g-link style="color: #573a1d" to="/author/"><v-tab>Author</v-tab></g-link>
-      <g-link to="/"><v-tab><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link>
-      <g-link style="color: #573a1d" to="/faq/"><v-tab>FAQ</v-tab></g-link>
-      <g-link style="color: #573a1d" to="/events/"><v-tab>Events</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/books/"><v-tab class="m-xs-n2">Books</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/author/"><v-tab class="m-xs-n2">Author</v-tab></g-link>
+      <g-link to="/"><v-tab class="m-xs-n2"><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link>
+      <g-link style="color: #573a1d" to="/faq/"><v-tab class="m-xs-n2">FAQ</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/events/"><v-tab class="m-xs-n2">Events</v-tab></g-link>
       <v-spacer></v-spacer>
     </v-app-bar>
     <v-container style="height: 50px; margin-top: 50px; margin-bottom: -25px;">
