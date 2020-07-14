@@ -7,13 +7,13 @@
       dense
       fixed
     >
-  
+      
       <v-spacer></v-spacer>
-      <g-link style="color: #573a1d" to="/books/"><v-tab>Books</v-tab></g-link>
-      <g-link style="color: #573a1d" to="/author/"><v-tab>Author</v-tab></g-link>
-      <g-link to="/"><v-tab><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link>
-      <g-link style="color: #573a1d" to="/faq/"><v-tab>FAQ</v-tab></g-link>
-      <g-link style="color: #573a1d" to="/events/"><v-tab>Events</v-tab></g-link>
+      <div class="pl-xs-n16 pr-xs-n16"><g-link style="color: #573a1d" to="/books/"><v-tab>Books</v-tab></g-link></div>
+      <div class="pl-xs-n16 pr-xs-n16"><g-link style="color: #573a1d" to="/events/"><v-tab>Events</v-tab></g-link></div>
+      <div class="pl-xs-n16 pr-xs-n16"><g-link to="/"><v-tab><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link></div>
+      <div class="pl-xs-n16 pr-xs-n16"><g-link style="color: #573a1d" to="/author/"><v-tab>Author</v-tab></g-link></div>
+      <div class="pl-xs-n16 pr-xs-n16"><g-link style="color: #573a1d" to="/faq/"><v-tab>FAQ</v-tab></g-link></div>
       <v-spacer></v-spacer>
    
     </v-app-bar>
