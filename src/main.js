@@ -19,6 +19,11 @@ export default function (Vue, { appOptions, head }) {
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Rochester:100,300,400,500,700,900',
   })
+
+  head.link.push({
+    rel: 'stylesheet',
+    href: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900',
+  })
   
   head.link.push({
     rel: 'stylesheet',
