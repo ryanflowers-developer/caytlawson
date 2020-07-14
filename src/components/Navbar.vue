@@ -1,21 +1,25 @@
 <template>
   <div>
     <v-app-bar
+      class="pl-xs-16 pr-xs-16"
       color="#c0beb1"
       dense
       fixed
     >
+  
       <v-spacer></v-spacer>
-      <g-link style="color: #573a1d" to="/books/"><v-tab class="m-xs-n2">Books</v-tab></g-link>
-      <g-link style="color: #573a1d" to="/author/"><v-tab class="m-xs-n2">Author</v-tab></g-link>
-      <g-link to="/"><v-tab class="m-xs-n2"><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link>
-      <g-link style="color: #573a1d" to="/faq/"><v-tab class="m-xs-n2">FAQ</v-tab></g-link>
-      <g-link style="color: #573a1d" to="/events/"><v-tab class="m-xs-n2">Events</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/books/"><v-tab>Books</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/author/"><v-tab>Author</v-tab></g-link>
+      <g-link to="/"><v-tab><v-icon size="40" color="#573a1d">mdi-home</v-icon></v-tab></g-link>
+      <g-link style="color: #573a1d" to="/faq/"><v-tab>FAQ</v-tab></g-link>
+      <g-link style="color: #573a1d" to="/events/"><v-tab>Events</v-tab></g-link>
       <v-spacer></v-spacer>
+   
     </v-app-bar>
     <v-container style="height: 50px; margin-top: 50px; margin-bottom: -25px;">
       <v-row>
       <v-spacer></v-spacer>
+
         <a href="https://www.facebook.com/CaytLawson/" target="_blank"><v-icon color="#573a1d" style="margin-left: 20px; margin-right: 20px;">mdi-facebook</v-icon></a>
         <a href="https://twitter.com/caytlawson" target="_blank"><v-icon color="#573a1d" style="margin-left: 20px; margin-right: 20px;">mdi-twitter</v-icon></a>
         <a href="https://www.instagram.com/caytlawson/" target="_blank"><v-icon color="#573a1d" style="margin-left: 20px; margin-right: 20px;">mdi-instagram</v-icon></a>

@@ -26,7 +26,7 @@
 
             <v-row justify="center">
               
-              <v-col order="0" order-lg="first" lg="4" md="8" cols="10">
+              <v-col order="0" order-lg="first" lg="4" md="8" cols="12">
                 <BookCarousel />
                 <v-divider></v-divider>
                 <br />

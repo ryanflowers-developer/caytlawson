@@ -9,6 +9,6 @@
 blockquote {
     font-family: Rochester;
     font-size: 28px; 
-    
+    white-space: nowrap;
 }
 </style>

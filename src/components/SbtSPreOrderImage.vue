@@ -40,6 +40,6 @@ p {
 
 a {
   text-decoration: none;
-  color: #573a1d;
+  color: #573a1d!important;
 }
 </style>
