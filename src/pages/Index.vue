@@ -9,7 +9,7 @@
             width="100%"
             color="#f3eee8"
             flat
-            style="border: 3px outset #c0beb1!important; padding:20px; background-image: url('https://i.imgur.com/HR6dj1v.jpg); background-repeat: repeat-x;"
+            style="border: 2px outset #c0beb1!important; padding:20px;"
           >
             <v-row class="text-md-center">
               <v-col lg="6" md="12" cols="12">
