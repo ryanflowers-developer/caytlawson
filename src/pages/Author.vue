@@ -11,7 +11,7 @@
             flat
             style="border: 3px outset #c0beb1!important; padding:20px;"
           >
-          <v-row>
+          <!-- <v-row>
             <v-col cols='12'>
               <CaytLawsonLogo />
             </v-col>
@@ -26,7 +26,7 @@
             <v-img src="https://picsum.photos/200"></v-img>
 
             </v-col>
-          </v-row>
+          </v-row> -->
 
 
 
