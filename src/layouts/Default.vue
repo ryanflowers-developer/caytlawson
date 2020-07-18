@@ -5,8 +5,6 @@
         <slot />
         <Footer />
     </v-app>
-
-
 </div>
 </template>
 

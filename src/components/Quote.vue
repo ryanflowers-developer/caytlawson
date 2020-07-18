@@ -1,7 +1,7 @@
 <template>
-    <blockquote>"Writing the world the way I want it...
+    <blockquote>" Writing the world the way I want it...
     <br>
-    full of happily ever afters."
+    full of happily ever afters. "
     </blockquote>
 </template>
 
