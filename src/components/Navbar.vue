@@ -50,7 +50,7 @@ a{
 }
 
 .v-tab.small-tab{
-  font-size: 12px;
+  font-size: 10px;
   margin-left: -10px;
   margin-right: -10px;
 
