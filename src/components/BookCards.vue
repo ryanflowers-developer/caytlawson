@@ -1,6 +1,6 @@
 <template>
       <v-row class="text-center">
-        <v-card  class="mx-auto" hover style="width: 230px; margin: 20px;" v-for="book in books" :key="book">
+        <v-card  class="mx-auto" hover style="width: 350px; margin: 20px;" v-for="book in books" :key="book">
           <div>
 
               <v-img class="mx-auto mt-2" width="90%" :src="book.image"></v-img>
