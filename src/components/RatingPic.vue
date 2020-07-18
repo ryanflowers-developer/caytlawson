@@ -1,5 +1,5 @@
 <template>
-  <v-row class="align-center">
+  <v-row class="align-center mt-n10">
     <v-col lg="2" offset-lg="3" cols="6" offset="3"  class="pt-16 mt-n12">
       <v-card flat color="#f3eee8">
         <v-rating v-model="rating" class="mx-auto"  half-increments="true" color="yellow darken-3" size="20"></v-rating>

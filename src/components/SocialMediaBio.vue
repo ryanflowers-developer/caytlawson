@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col>
-        <h2>Where can you find Cayt Lawson?</h2>
+        <h2>Where can you find<br>Cayt Lawson?</h2>
       </v-col>
     </v-row>
 
