@@ -29,5 +29,6 @@ h4 {
   letter-spacing: 5px;
   font-size: 32px;
   font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
 }
 </style>

@@ -24,7 +24,7 @@ export default {};
 <style>
 h4 {
   font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
-  font-weight: 100;
+  font-size: 20px;
+  font-weight: 500;
 }
 </style>

@@ -71,6 +71,7 @@ export default {
 h3 {
   font-family: "Times New Roman", Times, serif;
   color: black;
+  font-weight: 600;
 }
 p {
   font-family: "Times New Roman", Times, serif;

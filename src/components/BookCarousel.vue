@@ -28,5 +28,6 @@ export default {
 h2 {
   font-family: "Times New Roman", Times, serif;
   letter-spacing: 3px;
+  font-weight: 300;
 }
 </style>

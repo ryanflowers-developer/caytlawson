@@ -2,7 +2,7 @@
   <v-col lg="8" offset-lg="2" cols="8" offset="2">
     <h2>
       What's next from
-      <br />Cayt Lawson?
+      <br/>Cayt Lawson?
     </h2>
     <br />
     <v-card>
@@ -17,7 +17,8 @@ export default {};
 
 <style scoped>
 h2 {
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
 }
 </style>

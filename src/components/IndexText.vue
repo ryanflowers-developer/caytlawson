@@ -39,10 +39,12 @@ p {
 h3 {
   font-family: "Times New Roman", Times, serif;
   margin-bottom: 10px;
+  font-weight: 200;
 }
 h2 {
   font-family: "Times New Roman", Times, serif;
   letter-spacing: 5px;
+  font-weight: 100;
 }
 a {
   text-decoration: none;
