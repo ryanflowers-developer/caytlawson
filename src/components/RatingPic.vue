@@ -7,7 +7,7 @@
           class="mx-auto"
           half-increments="true"
           color="yellow darken-3"
-          size="20"
+          size="15"
         ></v-rating>
         <v-img width="65%" class="mx-auto" src="https://i.imgur.com/lV7SCFr.png?1"></v-img>
       </v-card>
@@ -24,7 +24,7 @@
           class="mx-auto"
           half-increments="true"
           color="yellow darken-3"
-          size="20"
+          size="15"
         ></v-rating>
         <v-img width="65%" class="mx-auto" src="https://i.imgur.com/Q59NfSL.png?1"></v-img>
       </v-card>
