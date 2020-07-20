@@ -17,10 +17,6 @@
     </v-row>
 
     <v-row>
-      <v-col class="my-auto" lg="4" md="6" cols="12">
-        <HeadAuthorImage />
-        <Quote />
-      </v-col>
       <v-col class="pl-6 pr-6" lg="4" md="6" cols="12">
         <LearnMoreAboutCayt />
       </v-col>
@@ -34,6 +30,10 @@
         <h3>
           <g-link style="color: #573a1d;" to="/books/">BOOKSHELF</g-link>
         </h3>
+      </v-col>
+      <v-col class="my-auto" lg="4" md="6" cols="12">
+        <HeadAuthorImage />
+        <Quote />
       </v-col>
     </v-row>
   </v-container>
