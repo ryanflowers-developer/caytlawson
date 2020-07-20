@@ -8,7 +8,7 @@
 <style scoped>
 blockquote {
   font-family: Rochester;
-  font-size: 24px;
+  font-size: 22px;
   white-space: nowrap;
 }
 </style>
