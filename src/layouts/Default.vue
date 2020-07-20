@@ -23,7 +23,11 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style >
+a {
+  text-decoration: none;
+  color: #573a1d;
+}
 </style>
 
 

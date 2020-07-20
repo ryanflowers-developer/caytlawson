@@ -102,4 +102,8 @@ h3 {
   font-size: 22px;
   font-weight: 100;
 }
+a {
+  text-decoration: none;
+  color: #573a1d !important;
+}
 </style>

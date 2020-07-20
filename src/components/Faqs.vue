@@ -80,7 +80,7 @@ export default {
 
 <style scoped>
 #head-panel {
-  color: black;
+  color: white;
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;
 }
@@ -88,6 +88,7 @@ export default {
 #answer-panel {
   color: #573a1d;
   font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
+  font-size: 18px;
 }
+
 </style>
