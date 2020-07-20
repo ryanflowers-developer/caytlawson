@@ -10,9 +10,12 @@
     </v-row>
     <v-row>
       <v-col cols="12">
-        <br />
-        <br />
-        <h3>In the meantime...</h3>
+        <br><br>
+        <v-divider></v-divider>
+        <br>
+        <br>
+        <h4>While you're waiting...</h4>
+        <br>
       </v-col>
     </v-row>
 
@@ -69,5 +72,12 @@ h3 {
   font-family: "Times New Roman", Times, serif;
   font-size: 26px;
   font-weight: 100;
+}
+h4 {
+
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+  font-weight: 300;
+
 }
 </style>
