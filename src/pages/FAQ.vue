@@ -99,7 +99,7 @@ h2 {
 }
 h3 {
   font-family: "Times New Roman", Times, serif;
-  font-size: 26px;
+  font-size: 22px;
   font-weight: 100;
 }
 </style>
