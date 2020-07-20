@@ -29,7 +29,7 @@ export default {
       books: [
         {
           title: "Ann's Valley",
-          image: "https://i.imgur.com/rAAgDpF.jpg",
+          image: "https://i.imgur.com/cwttvll.jpg",
           series: "Stone Ranch Prequel",
           progress: "100"
         },
