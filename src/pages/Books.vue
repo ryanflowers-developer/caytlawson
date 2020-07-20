@@ -30,13 +30,13 @@
             </v-row>
 
             <v-row>
-              <v-col cols="10" offset="1" class="text-left">
+              <v-col cols="12" class="text-left">
                 <h2 id="title-series">Stone Ranch Series</h2>
                 <v-divider></v-divider>
               </v-col>
             </v-row>
             <v-row>
-              <v-col lg="8" offset-lg="2">
+              <v-col lg="12">
                 <BookCards />
               </v-col>
             </v-row>

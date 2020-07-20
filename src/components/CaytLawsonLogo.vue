@@ -7,15 +7,12 @@
 
 <script>
 export default {
-  data: {
-
-    
-  }
+  data: {}
 };
 </script>
 
 <style scoped>
-h1{
+h1 {
   font-size: 96px;
   font-family: Rochester;
   color: #573a1d;
@@ -23,30 +20,25 @@ h1{
   white-space: nowrap;
 }
 p {
-    margin-top: -20px;
-    margin-left: 300px;
-    font-size: 22px;
-    font-family: Rochester;
-    white-space: nowrap;
-
+  margin-top: -20px;
+  margin-left: 300px;
+  font-size: 22px;
+  font-family: Rochester;
+  white-space: nowrap;
 }
 
-h1.small{
+h1.small {
   font-size: 64px;
   font-family: Rochester;
   color: #573a1d;
   text-shadow: 2px 2px #9ed9df;
   white-space: nowrap;
-  
 }
 
-p.psmall{
-    margin: auto;
-    font-size: 18px;
-    font-family: Rochester;
-    white-space: nowrap;
-
+p.psmall {
+  margin: auto;
+  font-size: 18px;
+  font-family: Rochester;
+  white-space: nowrap;
 }
-
-
 </style>

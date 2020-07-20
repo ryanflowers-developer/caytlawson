@@ -2,11 +2,14 @@
   <v-container>
     <v-row>
       <v-col>
-        <h2>Where can you find<br>Cayt Lawson?</h2>
+        <h2>
+          Where can you find
+          <br />Cayt Lawson?
+        </h2>
       </v-col>
     </v-row>
 
-    <br>
+    <br />
 
     <v-row>
       <v-col>
@@ -43,44 +46,40 @@
       </v-col>
     </v-row>
 
-    <br>
+    <br />
 
     <v-row>
       <v-col lg="8" offset-lg="2" md="10" md-offset="1" cols="12">
         <v-img src="https://i.imgur.com/jtTvwX1.jpg"></v-img>
       </v-col>
     </v-row>
-    <br>
+    <br />
     <v-row>
       <v-col lg="8" offset-lg="2" md="10" md-offset="1" cols="12">
         <v-img src="https://i.imgur.com/vvKA9Dl.jpg"></v-img>
-      </v-col>  
+      </v-col>
     </v-row>
-    <br>
+    <br />
 
     <v-row>
-      <v-col lg="8" offset-lg="2" md="10"  md-offset="1" col="12">
+      <v-col lg="8" offset-lg="2" md="10" md-offset="1" col="12">
         <v-img src="https://i.imgur.com/QnHRuCZ.jpg"></v-img>
-      </v-col>   
+      </v-col>
     </v-row>
-    <br>
-
+    <br />
   </v-container>
 </template>
 
 <script>
-
 export default {};
 </script>
 
 <style scoped>
 h2 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 400;
-    font-size: 28px;
-    white-space: nowrap;
-    margin-top: -20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-size: 28px;
+  white-space: nowrap;
+  margin-top: -20px;
 }
-
-
 </style>>

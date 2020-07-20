@@ -21,14 +21,13 @@
                 <OfficialBio />
               </v-col>
             </v-row>
-          
+
             <v-row>
               <v-col>
                 <RatingPic />
               </v-col>
             </v-row>
 
-         
             <v-row>
               <v-col>
                 <SocialMediaBio />
@@ -47,8 +46,6 @@ import OfficialBio from "~/components/OfficialBio.vue";
 import RatingPic from "~/components/RatingPic.vue";
 import SocialMediaBio from "~/components/SocialMediaBio.vue";
 
-
-
 export default {
   metaInfo: {
     title: "About us"
@@ -58,14 +55,13 @@ export default {
     OfficialBio,
     RatingPic,
     SocialMediaBio
-  },
-
+  }
 };
 </script>
 
 <style scoped>
 h1 {
-  font-weight: 900!important;
+  font-weight: 900 !important;
   font-family: "Times New Roman", Times, serif;
 }
 h2 {

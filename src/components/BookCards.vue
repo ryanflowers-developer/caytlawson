@@ -1,22 +1,25 @@
 <template>
-      <v-row class="text-center">
-        <v-card  class="mx-auto" hover style="width: 300px; margin: 20px;" v-for="book in books" :key="book">
-          <div>
-
-              <v-img class="mx-auto mt-2" width="90%" :src="book.image"></v-img>
-          </div>
-          <div style="padding: 10px;" >
-
-          <div>
-            <h3>{{ book.title }}</h3>
-          </div>
-          <p>{{book.series}}</p>
-          <v-progress-linear color="#9ed9df" :value="book.progress"></v-progress-linear>
-          <span>{{ book.progress }}% Completed</span>
-          </div>
-        </v-card>
-      </v-row>
-
+  <v-row class="text-center">
+    <v-card
+      class="mx-auto"
+      hover
+      style="width: 35vh; margin: 20px;"
+      v-for="book in books"
+      :key="book"
+    >
+      <div>
+        <v-img class="mx-auto" width="100%" :src="book.image"></v-img>
+      </div>
+      <div style="padding: 10px;">
+        <div>
+          <h3>{{ book.title }}</h3>
+        </div>
+        <p>{{book.series}}</p>
+        <v-progress-linear color="#9ed9df" :value="book.progress"></v-progress-linear>
+        <span>{{ book.progress }}% Completed</span>
+      </div>
+    </v-card>
+  </v-row>
 </template>
 
 <script>
@@ -79,7 +82,7 @@ span {
 
   color: black;
 }
-h3{
-  font-family: 'Times New Roman', Times, serif;
+h3 {
+  font-family: "Times New Roman", Times, serif;
 }
 </style>
