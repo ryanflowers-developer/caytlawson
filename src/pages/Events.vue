@@ -23,7 +23,7 @@
             <h2 class="mt-md-n12">Events</h2>
 
             <v-row>
-              <v-col cols="10" offset="1">
+              <v-col lg="10" offset-lg="1" cols="12">
                 <h3 class="text-left">Upcoming Events</h3>
                 <v-divider></v-divider>
                 <BookingEvents />

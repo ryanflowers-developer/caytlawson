@@ -30,7 +30,7 @@
             </v-row>
 
             <v-row>
-              <v-col cols="10" offset="1">
+              <v-col lg="10" offset-lg="1" cols="12">
                 <Faqs />
               </v-col>
             </v-row>
