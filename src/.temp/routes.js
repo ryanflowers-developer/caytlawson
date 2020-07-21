@@ -1,10 +1,10 @@
-const c1 = () => import(/* webpackChunkName: "page--src-pages-newsletter-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\Newsletter.vue")
-const c2 = () => import(/* webpackChunkName: "page--src-pages-faq-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\FAQ.vue")
-const c3 = () => import(/* webpackChunkName: "page--src-pages-events-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\Events.vue")
-const c4 = () => import(/* webpackChunkName: "page--src-pages-books-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\Books.vue")
-const c5 = () => import(/* webpackChunkName: "page--src-pages-author-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\Author.vue")
-const c6 = () => import(/* webpackChunkName: "page--src-pages-404-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\404.vue")
-const c7 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\hexstone\\Desktop\\caytlawson\\caytlawson\\src\\pages\\Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src-pages-newsletter-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\Newsletter.vue")
+const c2 = () => import(/* webpackChunkName: "page--src-pages-faq-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\FAQ.vue")
+const c3 = () => import(/* webpackChunkName: "page--src-pages-events-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\Events.vue")
+const c4 = () => import(/* webpackChunkName: "page--src-pages-books-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\Books.vue")
+const c5 = () => import(/* webpackChunkName: "page--src-pages-author-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\Author.vue")
+const c6 = () => import(/* webpackChunkName: "page--src-pages-404-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\404.vue")
+const c7 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\hexstone\\Documents\\Projects\\caytlawson\\src\\pages\\Index.vue")
 
 export default [
   {

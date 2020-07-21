@@ -14,7 +14,9 @@
         <v-divider></v-divider>
         <br>
         <br>
+        <br>
         <h4>While you're waiting...</h4>
+        <br>
         <br>
       </v-col>
     </v-row>
