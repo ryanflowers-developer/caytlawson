@@ -9,22 +9,28 @@
           href="https://www.amazon.com/Seduced-Saint-Stone-Ranch-Book-ebook/dp/B08CGTB2PT/ref=sr_1_2?crid=3MT7NMR18TEZ2&dchild=1&keywords=seduced+by+the+saint&qid=1594509931&sprefix=seduced+by+the+saint%2Caps%2C185&sr=8-2"
           target="_blank"
         >
-          <v-img src="https://i.imgur.com/sNKxo0p.png"></v-img>
+          <v-img src="https://i.imgur.com/MrvJKwP.jpg"></v-img>
         </a>
       </v-card>
     </div>
     <br />
-    <p>Ebook now availabe for pre-order on:</p>
+    <p>Ebook/Paperback Available Now:</p>
 
-    <v-btn style="background-color: #c0beb1;">
+    <v-btn style="background-color: #c0beb1; margin: 5px;">
       <a
         href="https://www.amazon.com/Seduced-Saint-Stone-Ranch-Book-ebook/dp/B08CGTB2PT/ref=sr_1_2?crid=3MT7NMR18TEZ2&dchild=1&keywords=seduced+by+the+saint&qid=1594509931&sprefix=seduced+by+the+saint%2Caps%2C185&sr=8-2"
         target="_blank"
       >Amazon</a>
     </v-btn>
+    <v-btn style="background-color: #c0beb1; margin: 5px;">
+      <a
+        href="https://www.barnesandnoble.com/w/seduced-by-the-saint-cayt-lawson/1137369683?ean=9780578723716"
+        target="_blank"
+      >Barnes & Noble</a>
+    </v-btn>
     <br />
     <br />
-    <p>Paperback coming soon to Amazon, Barnes & Noble, Walmart, Target and more!</p>
+    <p>Paperback coming soon to Walmart, Target and more!</p>
     <v-divider></v-divider>
     <p>
       Excerpt from Cayt Lawson's
