@@ -2,11 +2,11 @@
   <Layout>
     <v-container>
       <v-row class="text-center">
-        <v-col md="12" lg="8" offset-lg="2" sm="12">
+        <v-col lg="12" xl="8" offset-xl="2">
           <v-card
             tile="true"
             height="100%"
-            width="100%"
+            width="100vw"
             color="#f3eee8"
             flat
             style="border: 2px outset #c0beb1!important; padding:20px;"
@@ -88,7 +88,7 @@ import LearnMoreAboutCayt from "~/components/LearnMoreAboutCayt.vue";
 
 export default {
   metaInfo: {
-    title: "Home"
+    title: "Home",
   },
   components: {
     HeadAuthorImage,
@@ -107,12 +107,15 @@ export default {
     CaytLawsonLogo,
     SbtSExcerpt,
     KbaDComingSoon,
-    LearnMoreAboutCayt
-  }
+    LearnMoreAboutCayt,
+  },
 };
 </script>
 
 <style scoped>
+#shell {
+  min-width: 1500px !important;
+}
 </style>
 
 

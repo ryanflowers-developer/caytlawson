@@ -2,7 +2,7 @@
   <Layout>
     <v-container>
       <v-row class="text-center">
-        <v-col md="12" lg="8" offset-lg="2" sm="12">
+        <v-col lg="12" xl="8" offset-xl="2">
           <v-card
             tile="true"
             height="100%"
@@ -20,7 +20,7 @@
                 <v-img src="https://i.imgur.com/VAwhRBU.png"></v-img>
               </v-col>
             </v-row>
-            <h2 class="mt-md-n12">Events</h2>
+            <h2>Events</h2>
 
             <v-row>
               <v-col lg="10" offset-lg="1" cols="12">
@@ -43,8 +43,8 @@ import BookingEvents from "~/components/BookingEvents.vue";
 export default {
   components: {
     CaytLawsonLogo,
-    BookingEvents
-  }
+    BookingEvents,
+  },
 };
 </script>
 
@@ -63,5 +63,4 @@ h3 {
   font-size: 22px;
   font-weight: 100;
 }
-
 </style>

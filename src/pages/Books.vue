@@ -2,7 +2,7 @@
   <Layout>
     <v-container>
       <v-row class="text-center">
-        <v-col md="12" lg="8" offset-lg="2" sm="12">
+        <v-col lg="12" xl="8" offset-xl="2">
           <v-card
             tile="true"
             height="100%"
@@ -20,7 +20,7 @@
                 <v-img src="https://i.imgur.com/VAwhRBU.png"></v-img>
               </v-col>
             </v-row>
-            <h3 class="mt-md-n12">The happily ever after</h3>
+            <h3>The happily ever after</h3>
             <h2>BOOKSHELF</h2>
 
             <v-row>
@@ -54,13 +54,13 @@ import BigBookNew from "~/components/BigBookNew.vue";
 
 export default {
   metaInfo: {
-    title: "Books"
+    title: "Books",
   },
   components: {
     BookCards,
     CaytLawsonLogo,
-    BigBookNew
-  }
+    BigBookNew,
+  },
 };
 </script>
 

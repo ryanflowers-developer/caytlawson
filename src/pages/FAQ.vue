@@ -2,7 +2,7 @@
   <Layout>
     <v-container>
       <v-row class="text-center">
-        <v-col md="12" lg="8" offset-lg="2" sm="12">
+        <v-col lg="12" xl="8" offset-xl="2">
           <v-card
             tile="true"
             height="100%"
@@ -20,7 +20,7 @@
                 <v-img src="https://i.imgur.com/VAwhRBU.png"></v-img>
               </v-col>
             </v-row>
-            <h2 class="mt-md-n12">FAQ</h2>
+            <h2>FAQ</h2>
 
             <v-row>
               <v-col cols="10" offset="1">
@@ -44,7 +44,9 @@
                 <br />
                 <p>
                   Feel free to email her at
-                  <a href="mailto:caytlawson@gmail.com">caytlawson@gmail.com</a>
+                  <a
+                    href="mailto:caytlawson@gmail.com"
+                  >caytlawson@gmail.com</a>
                 </p>
                 <v-row>
                   <v-col cols="4" offset="4">
@@ -82,8 +84,8 @@ export default {
   components: {
     CaytLawsonLogo,
     Faqs,
-    NewsletterSignUp
-  }
+    NewsletterSignUp,
+  },
 };
 </script>
 
